@@ -1,0 +1,25 @@
+.button {
+  border: none;
+  box-shadow: none;
+  background: none;
+  font-size: 14px;
+  padding: 5px 10px;
+  border-radius: 6px;
+}
+
+.quickButton {
+  color: #0969da;
+}
+
+.quickButton:hover {
+  border: 1px solid #d0d7de;
+}
+
+.disabled {
+  color: #8c959f;
+}
+
+.selected {
+  background: #0969da;
+  color: #ffffff;
+}
